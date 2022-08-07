@@ -1787,14 +1787,14 @@ input, select, textarea {
 	header.major h2 {
 		color: #4acaa8;
 		font-size: 3.5em;
-		font-style: italic;
 	}
 
 		header.major h2 + p {
 			color: #777;
-			font-size: 1.75em;
+			font-size: 1.5em;
 			font-weight: 700;
 			margin-top: -0.75em;
+			font-style: italic;
 		}
 
 /* Form */
