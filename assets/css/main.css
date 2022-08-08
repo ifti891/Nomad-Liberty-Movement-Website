@@ -2203,6 +2203,7 @@ input, select, textarea {
 			display: block;
 			height: 10em;
 			border-radius: 0;
+			width: auto;
 		}
 
 			.image.main img {
